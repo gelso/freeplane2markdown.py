@@ -17,9 +17,11 @@ or, if you want
 note: prior to run the script, please convert all the mind map content 
 to plain text:
 
-1) unfold all the map nodes
-2) select all using CTRL-A
-3) convert all the selection to text using SHIFT+ALT+P
+- unfold all the map nodes
+
+- select all using CTRL-A
+
+- convert all the selection to text using SHIFT+ALT+P
 
 
 
